@@ -5,6 +5,6 @@ gem 'cocoapods-coverage', '~> 0.2'
 
 gem 'coveralls', require: false
 
-gem 'slather', '~> 1.8'
+gem 'slather', '~> 2.4', '>= 2.4.0'
 gem 'xcpretty'
-gem 'nokogiri', '~> 1.6'
+gem 'nokogiri', '~> 1.11', '>= 1.11.4'
